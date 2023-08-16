@@ -1,0 +1,26 @@
+.button {
+    background-color: $bg-primary;
+    color: $text-white;
+    text-align: $ta-c;
+    &-buy {
+        width: 104px;
+        font-size: $fz-20;
+        font-weight: $fw-500;
+        margin-top: $mt-4;
+        margin-left: $ml-auto;
+        padding: 6px 12px;
+        &:hover {
+            cursor: pointer;
+        }
+    }
+    &submit {
+        width: 416px;
+        font-size: $fz-16;
+        font-weight: $fw-700;
+        padding: $p-16;
+        margin: $m-0-auto;
+        &:hover {
+            cursor: pointer;
+        }
+    }
+}

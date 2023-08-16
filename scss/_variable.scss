@@ -1,0 +1,146 @@
+
+// background-color
+$bg-primary: #aa0601;
+$bg-secondary: #fbf2f2;
+$bg-white: #fff;
+
+// color
+$text-primary: #650300;
+$text-secondary: #aa0601;
+$text-white: #fff;
+
+//font-size
+$fz-64 {
+    font-size: 64px;
+}
+$fz-48 {
+    font-size: 48px;
+}
+$fz-36 {
+    font-size: 36px;
+}
+$fz-24 {
+    font-size: 24px;
+}
+$fz-20 {
+    font-size: 20px;
+}
+$fz-16 {
+    font-size: 16px;
+}
+
+//font-weight 900 2  700 7 500 2
+$fw-900 {
+    font-weight: 900;
+}
+$fw-700 {
+    font-weight: 700;
+}
+$fw-500 {
+    font-weight: 500;
+}
+
+//font-style
+$font-italic {
+    font-style: italic;
+}
+
+//text-align
+$ta-c {
+    text-align: center;
+}
+$ta-r {
+    text-align: right;
+}
+$ta-l {
+    text-align: left;
+}
+
+//display 
+$d-flex {
+    display: flex;
+}
+$d-block {
+    display: block;
+}
+
+//flex
+$js-sb {
+    justify-content: space-between;
+}
+$ai-c {
+    align-items: center;
+}
+
+//padding 
+$p-16 {
+    padding: 16px;
+}
+
+$py-296 {
+    padding: 296px 0;
+}
+$py-80 {
+    padding: 80px 0;
+}
+$py-16 {
+    padding: 16px 0;
+}
+
+$px-12 {
+    padding: 0 12px;
+}
+$pb-32 {
+    padding-bottom: 32px;
+}
+
+//margin
+
+$mt-auto {
+    margin-top: auto;
+}
+$mt-48 {
+    margin-top: 48px;
+}
+$mt-24 {
+    margin-top: 24px;
+}
+$mt-8 {
+    margin-top: 8px;
+}
+$mt-4 {
+    margin-top: 4px;
+}
+$ml-48 {
+    margin-left: 48px;
+}
+$mb-48 {
+    margin-bottom: 48px;
+}
+$mb-24 {
+    margin-bottom: 24px;
+}
+$mb-16  {
+    margin-bottom: 16px;
+}
+$mb-8 {
+    margin-bottom: 8px;
+}
+$ml-auto {
+    margin-left: auto;
+}
+$ml-48 {
+    margin-left: 48px;
+}
+$ml-32 {
+    margin-left: 32px;
+}
+$mx-24 {
+    margin: 0 24px;
+}
+$mx-12 {
+    margin: 0 12px;
+}
+$m-0-auto {
+    margin: 0 auto;
+}

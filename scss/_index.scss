@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0");
+
+.material-symbols-outlined {
+    vertical-align: middle;
+}
+.header, footer {
+    background-color: $bg-primary;
+}
+.header-nav {
+    display: $d-flex;
+    justify-content: $js-sb;
+    padding: $py-16;
+    &link {
+        display: $d-flex;
+        align-items: $ai-c;
+        font-size: $fz-20;
+        li {
+            padding: 6px 32px;
+            border-bottom: 3px solid transparent;
+            &:hover {
+                border-bottom: 3px solid #fff;
+            }
+        }
+    }
+}
